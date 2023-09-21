@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "google-chat-cards": "^1.0.2"
+  }
+}
